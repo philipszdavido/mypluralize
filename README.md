@@ -5,17 +5,17 @@ A Node.js module that returns the plural form of any noun
     `npm install mypluralize`
 ## Usage
 
-    ## Javascript
-        <code>var pluralise = require('mypluralize');
-        var boys = pluralise.getPlural('Boy);</code>
+    # Javascript
+        var pluralise = require('mypluralize');
+        var boys = pluralise.getPlural('Boy);
 
-        Output should be <code>'Boys'</code>
+        Output should be 'Boys'
 
     ## TypeScript
-        <code>import { getPlural } from 'mypluralize';
-        console.log(getPlural('Goose'))</code>
+        import { getPlural } from 'mypluralize';
+        console.log(getPlural('Goose'))
 
-        Output should be <code>'Geese'</code>
+        Output should be <code>'Geese'
 
 ## Test 
     `npm run test`
