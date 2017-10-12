@@ -10,7 +10,7 @@ A Node.js module that returns the plural form of any noun
 
     #Javascript
         var pluralise = require('mypluralize');
-        var boys = pluralise.getPlural('Boy);
+        var boys = pluralise.getPlural('Boy');
 
         Output should be 'Boys'
 
