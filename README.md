@@ -12,7 +12,7 @@ bower install pluralize --save
 
 ## Usage
 
-### Javascript
+### JavaScript
 
 ```javascript
 var pluralise = require('mypluralize');
