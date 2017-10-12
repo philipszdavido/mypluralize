@@ -1,3 +1,4 @@
+https://travis-ci.org/philipszdavido/mypluralize.svg?branch=v1.0.0
 # mypluralize
 A Node.js module that returns the plural form of any noun
 
@@ -5,13 +6,13 @@ A Node.js module that returns the plural form of any noun
     `npm install mypluralize`
 ## Usage
 
-    # Javascript
+    #Javascript
         var pluralise = require('mypluralize');
         var boys = pluralise.getPlural('Boy);
 
         Output should be 'Boys'
 
-    ## TypeScript
+    ##TypeScript
         import { getPlural } from 'mypluralize';
         console.log(getPlural('Goose'))
 
