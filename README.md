@@ -15,7 +15,7 @@ A Node.js module that returns the plural form of any noun
         import { getPlural } from 'mypluralize';
         console.log(getPlural('Goose'))
 
-        Output should be <code>'Geese'
+        Output should be 'Geese'
 
 ## Test 
     `npm run test`
