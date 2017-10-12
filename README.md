@@ -18,7 +18,8 @@ bower install pluralize --save
 ```javascript
 var pluralise = require('mypluralize');
 var boys = pluralise.getPlural('Boy');
-
+```
+```sh
 Output should be 'Boys'
 ```
 
@@ -26,7 +27,8 @@ Output should be 'Boys'
 ```typescript
 import { getPlural } from 'mypluralize';
 console.log(getPlural('Goose'))
-
+```
+```sh
 Output should be 'Geese'
 ```
 
