@@ -1,4 +1,4 @@
-https://travis-ci.org/philipszdavido/mypluralize.svg?branch=v1.0.0
+[![Build Status](https://travis-ci.org/philipszdavido/mypluralize.svg?branch=v1.0.0)](https://travis-ci.org/philipszdavido/mypluralize)
 # mypluralize
 A Node.js module that returns the plural form of any noun
 
