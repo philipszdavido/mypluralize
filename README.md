@@ -17,6 +17,7 @@ bower install pluralize --save
 ```javascript
 var pluralise = require('mypluralize');
 var boys = pluralise.getPlural('Boy');
+console.log(boys);
 ```
 ```sh
 Output should be 'Boys'
