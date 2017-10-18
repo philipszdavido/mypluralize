@@ -7,8 +7,7 @@
     "scripts": {
         "build": "tsc",
         "test": "mocha --reporter spec",
-        "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js -- -R spec",
-        "mo": "_mocha"
+        "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js -- -R spec"
     },
     "repository": {
         "type": "git",
