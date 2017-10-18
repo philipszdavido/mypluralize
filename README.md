@@ -1,8 +1,5 @@
 [![Build Status](https://travis-ci.org/philipszdavido/mypluralize.svg?branch=master)](https://travis-ci.org/philipszdavido/mypluralize)
 [![Coverage Status](https://coveralls.io/repos/github/philipszdavido/mypluralize/badge.svg?branch=master)](https://coveralls.io/github/philipszdavido/mypluralize?branch=master)
-[![npm version](https://badge.fury.io/js/badgess.svg)](http://badge.fury.io/js/badgess)
-[![npm downloads](https://img.shields.io/npm/dm/badgess.svg)](https://img.shields.io/npm/dm/badgess.svg)
-[![NPM](https://nodei.co/npm/badgess.png)](https://nodei.co/npm/badgess/)
 # mypluralize
 A Node.js module that returns the plural form of any noun
 
