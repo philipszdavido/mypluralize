@@ -1,6 +1,6 @@
 {
   "name": "mypluralize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Node.js module that returns the plural form of any noun",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
