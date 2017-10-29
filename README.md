@@ -18,18 +18,24 @@ bower install pluralize --save
 var pluralise = require('mypluralize');
 var boys = pluralise.getPlural('Boy');
 console.log(boys);
+
+var thief = pluralise.getSingular('Thieves');
+console.log(thief);
 ```
 ```sh
 Output should be 'Boys'
+Output should be 'Thief'
 ```
 
 ### TypeScript
 ```typescript
 import { getPlural } from 'mypluralize';
 console.log(getPlural('Goose'))
+console.log(getSingular('Guns'))
 ```
 ```sh
 Output should be 'Geese'
+Output should be 'Gun'
 ```
 
 ### AMD
