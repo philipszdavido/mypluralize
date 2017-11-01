@@ -31,7 +31,7 @@
     "typescript": "^2.5.3"
   },
   "dependencies": {
-    "@types/pluralize": "0.0.27",
+    "@types/pluralize": "0.0.28",
     "pluralize": "^7.0.0"
   }
 }
