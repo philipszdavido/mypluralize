@@ -2,6 +2,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/philipszdavido/mypluralize/badge.svg?branch=master)](https://coveralls.io/github/philipszdavido/mypluralize?branch=master)
 [![npm version](https://badge.fury.io/js/mypluralize.svg)](https://badge.fury.io/js/mypluralize)
 # mypluralize
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/philipszdavido/mypluralize.svg)](https://greenkeeper.io/)
 A Node.js module that returns the plural form of any noun
 
 ## Installation 
